@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Trigger</string>
+    <string name="title">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notification">Notification</string>
+    <string-array name="State">
+        <item>Gujarat</item>
+        <item>Punjab</item>
+    </string-array>
+    <string-array name="Deliveryboy">
+        <item>Deliveryboy1</item>
+        <item>Deliveryboy2</item>
+    </string-array>
+    <string-array name="DishName">
+        <item>Thepla</item>
+        <item>Dal-Rice</item>
+        <item>Dhokla</item>
+        <item>Sabji-Roti</item>
+        <item>Kadhi-Kichdi</item>
+        <item>Dal-Dhokli</item>
+        <item>Undhiyu</item>
+        <item>Fafda Jalebi</item>
+        <item>Allo Paratha</item>
+        <item>Patra</item>
+        <item>Kandhvi</item>
+        <item>Gulab Jammun</item>
+        <item>Samosa</item>
+        <item>Chole Bhature</item>
+        <item>Panner Tikka Butter Masala</item>
+        <item>Cheese Butter nan</item>
+        <item>Kaju Masal</item>
+        <item>Panner Kadhai</item>
+        <item>Achari Panner</item>
+        <item>Panner Handi</item>
+        <item>Tadka Dal</item>
+        <item>Palak Panner</item>
+        <item>Dum Briyani</item>
+        <item>Veg Briyani</item>
+        <item>Butter Roti</item>
+        <item>Rumali Roti</item>
+    </string-array>
+</resources>
